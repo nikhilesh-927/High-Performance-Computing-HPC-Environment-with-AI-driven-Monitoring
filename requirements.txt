@@ -1,0 +1,8 @@
+psutil
+requests
+pandas
+scikit-learn==1.3.0  # Use a specific version for model compatibility
+joblib
+flask
+gunicorn
+streamlit
