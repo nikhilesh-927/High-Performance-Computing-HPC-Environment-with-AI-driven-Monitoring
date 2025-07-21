@@ -1,4 +1,3 @@
-```markdown
 # High-Performance Computing (HPC) Environment with AI-Driven Monitoring
 
 ## Overview
